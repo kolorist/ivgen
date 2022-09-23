@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type='text/xsl' href='mau_hoadon.xslt' ?>
+<HDon>
+	<DLHDon Id="data123">
+		<TTChung>
+			<PBan>2.0.0</PBan>
+			<THDon>Hóa đơn giá trị gia tăng</THDon>
+			<KHMSHDon>1</KHMSHDon>
+			<KHHDon>C22TGM</KHHDon>
+			<SHDon>849804</SHDon>
+			<NLap>2022-09-20</NLap>
+			<DVTTe>VND</DVTTe>
+			<TGia>1</TGia>
+			<HTTToan>TM/CK</HTTToan>
+			<MSTTCGP>0101300842</MSTTCGP>
+			<TTKhac>
+				<TTin>
+					<TTruong>Mã TC</TTruong>
+					<KDLieu>string</KDLieu>
+					<DLieu>05XNHIMZ0BQ3</DLieu>
+				</TTin>
+				<TTin>
+					<TTruong>Trang thái DC</TTruong>
+					<KDLieu>string</KDLieu>
+					<DLieu>1</DLieu>
+				</TTin>
+			</TTKhac>
+		</TTChung>
+		<NDHDon>
+			<NBan>
+				<Ten>CÔNG TY TNHH GRAB</Ten>
+				<MST>0312650437</MST>
+				<DChi>Tòa nhà Mapletree Business Centre, 1060 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam</DChi>
+				<SDThoai>0938748589</SDThoai>
+				<DCTDTu>account.receivable.vn@grabtaxi.com</DCTDTu>
+				<STKNHang />
+				<TNHang />
+				<Fax />
+			</NBan>
+			<NMua>
+				<Ten>CÔNG TY TNHH FIS VIỆT NAM</Ten>
+				<MST>0106159689</MST>
+				<DChi>Tầng 6 tòa nhà Press Club, số 59A phố Lý Thái Tổ, phường Tràng Tiền, quận Hoàn Kiếm, Thành phố Hà Nội</DChi>
+				<MKHang>84919921055</MKHang>
+			</NMua>
+			<DSHHDVu>
+				<HHDVu>
+					<TChat>1</TChat>
+					<STT>1</STT>
+					<MHHDVu>A-3URKP4EGWGWT</MHHDVu>
+					<THHDVu>Cước phí vận chuyển mã A-3URKP4EGWGWT (phần doanh thu Grab được chia)</THHDVu>
+					<DVTinh>Chuyến</DVTinh>
+					<SLuong>1</SLuong>
+					<DGia>6852</DGia>
+					<ThTien>6852</ThTien>
+					<TSuat>8%</TSuat>
+					<TTKhac>
+						<TTin>
+							<TTruong>Tiền thuế</TTruong>
+							<KDLieu>numeric</KDLieu>
+							<DLieu>548</DLieu>
+						</TTin>
+					</TTKhac>
+				</HHDVu>
+				<HHDVu>
+					<TChat>1</TChat>
+					<STT>2</STT>
+					<MHHDVu>A-3URKP4EGWGWT</MHHDVu>
+					<THHDVu>Cước phí vận chuyển mã A-3URKP4EGWGWT (phần doanh thu của đối tác vận tải)</THHDVu>
+					<DVTinh>Chuyến</DVTinh>
+					<SLuong>1</SLuong>
+					<DGia>27407</DGia>
+					<ThTien>27407</ThTien>
+					<TSuat>8%</TSuat>
+					<TTKhac>
+						<TTin>
+							<TTruong>Tiền thuế</TTruong>
+							<KDLieu>numeric</KDLieu>
+							<DLieu>2193</DLieu>
+						</TTin>
+					</TTKhac>
+				</HHDVu>
+				<HHDVu>
+					<TChat>1</TChat>
+					<STT>3</STT>
+					<MHHDVu>A-3URKP4EGWGWT</MHHDVu>
+					<THHDVu>Phí dịch vụ mã A-3URKP4EGWGWT</THHDVu>
+					<DVTinh>Chuyến</DVTinh>
+					<SLuong>1</SLuong>
+					<DGia>1818</DGia>
+					<ThTien>1818</ThTien>
+					<TSuat>10%</TSuat>
+					<TTKhac>
+						<TTin>
+							<TTruong>Tiền thuế</TTruong>
+							<KDLieu>numeric</KDLieu>
+							<DLieu>182</DLieu>
+						</TTin>
+					</TTKhac>
+				</HHDVu>
+				<HHDVu>
+					<TChat>1</TChat>
+					<STT>4</STT>
+					<MHHDVu>A-3US2NOHWWFQP</MHHDVu>
+					<THHDVu>Cước phí vận chuyển mã A-3US2NOHWWFQP (phần doanh thu Grab được chia)</THHDVu>
+					<DVTinh>Chuyến</DVTinh>
+					<SLuong>1</SLuong>
+					<DGia>13333</DGia>
+					<ThTien>13333</ThTien>
+					<TSuat>8%</TSuat>
+					<TTKhac>
+						<TTin>
+							<TTruong>Tiền thuế</TTruong>
+							<KDLieu>numeric</KDLieu>
+							<DLieu>1067</DLieu>
+						</TTin>
+					</TTKhac>
+				</HHDVu>
+				<HHDVu>
+					<TChat>1</TChat>
+					<STT>5</STT>
+					<MHHDVu>A-3US2NOHWWFQP</MHHDVu>
+					<THHDVu>Cước phí vận chuyển mã A-3US2NOHWWFQP (phần doanh thu của đối tác vận tải)</THHDVu>
+					<DVTinh>Chuyến</DVTinh>
+					<SLuong>1</SLuong>
+					<DGia>53333</DGia>
+					<ThTien>53333</ThTien>
+					<TSuat>8%</TSuat>
+					<TTKhac>
+						<TTin>
+							<TTruong>Tiền thuế</TTruong>
+							<KDLieu>numeric</KDLieu>
+							<DLieu>4267</DLieu>
+						</TTin>
+					</TTKhac>
+				</HHDVu>
+				<HHDVu>
+					<TChat>1</TChat>
+					<STT>6</STT>
+					<MHHDVu>A-3US2NOHWWFQP</MHHDVu>
+					<THHDVu>Phí dịch vụ mã A-3US2NOHWWFQP</THHDVu>
+					<DVTinh>Chuyến</DVTinh>
+					<SLuong>1</SLuong>
+					<DGia>1818</DGia>
+					<ThTien>1818</ThTien>
+					<TSuat>10%</TSuat>
+					<TTKhac>
+						<TTin>
+							<TTruong>Tiền thuế</TTruong>
+							<KDLieu>numeric</KDLieu>
+							<DLieu>182</DLieu>
+						</TTin>
+					</TTKhac>
+				</HHDVu>
+			</DSHHDVu>
+			<TToan>
+				<THTTLTSuat>
+					<LTSuat>
+						<TSuat>10%</TSuat>
+						<ThTien>3636</ThTien>
+						<TThue>364</TThue>
+					</LTSuat>
+					<LTSuat>
+						<TSuat>8%</TSuat>
+						<ThTien>100925</ThTien>
+						<TThue>8075</TThue>
+					</LTSuat>
+				</THTTLTSuat>
+				<TgTCThue>104561</TgTCThue>
+				<TgTThue>8439</TgTThue>
+				<TgTTTBSo>113000</TgTTTBSo>
+				<TgTTTBChu>Một trăm mười ba nghìn đồng</TgTTTBChu>
+			</TToan>
+		</NDHDon>
+		<TTKhac>
+			<TTin>
+				<TTruong>Loại hiển thị</TTruong>
+				<KDLieu>string</KDLieu>
+				<DLieu>HD</DLieu>
+			</TTin>
+		</TTKhac>
+	</DLHDon>
+	<MCCQT Id="Id-d539541935c84b5e9bd001237a2c7de9">00D777B1EC15D24894816AA3F25D520CE5</MCCQT>
+	<DSCKS>
+		<NBan>
+			<Signature
+				xmlns="http://www.w3.org/2000/09/xmldsig#" Id="NBan-data123">
+				<SignedInfo>
+					<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+					<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+					<Reference URI="#data123">
+						<Transforms>
+							<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+						</Transforms>
+						<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+						<DigestValue>BwpbjYVb12Pv3YbLBxgOPHH0Nc0=</DigestValue>
+					</Reference>
+					<Reference URI="#Object-NBan-data123">
+						<Transforms>
+							<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+						</Transforms>
+						<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+						<DigestValue>dci0KFBSjlYf9H+0BpLfASdT9Ps=</DigestValue>
+					</Reference>
+				</SignedInfo>
+				<SignatureValue>ZhZVRT9R2FxOP4LaN+CxrRwZjeRaerkrADZCRW4+EmK6ntTP5EUF8il2IE1KP0bvG2YCGDbQyKKxysChxR5Z6rIzhGv3vfIxhH1iy7PeDg5iQWeUr3zZmi5kXUhbNDYdwUK6ihcGBzB14yFduQMm+hCEFCC1J2Cih84ICaEZ8UTvO1wwE93o2cxMuu/EU6upMmEggAMFQGSaM5kYTSLNgum9/qYaIaWaeVFO4am6Absxo94aG9ZZVeqN94+DE2AQiLV4K9FkaZ7eM3y6qjBKRNX0GDvGIM+1V2ttY77qt4mE2iA5uBeUvY0lxSjU4G6xvIQzOo9Pd/NbqmPfPV5LaA==</SignatureValue>
+				<KeyInfo>
+					<X509Data>
+						<X509SubjectName>E=khanhchau.huynh@grabtaxi.com, CN=CÔNG TY TNHH GRAB, OU=Có BH, O=CÔNG TY TNHH GRAB, L="268 Tô Hiến Thành, Phường 15, Quận 10. Thành Phố Hồ Chí Minh", S=MST:0312650437, C=VN</X509SubjectName>
+						<X509Certificate>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</X509Certificate>
+					</X509Data>
+				</KeyInfo>
+				<Object Id="Object-NBan-data123">
+					<SignatureProperties
+						xmlns="">
+						<SignatureProperty Id="SignatureProperty-NBan-data123" Target="#NBan-data123">
+							<SigningTime>2022-09-20T23:51:42</SigningTime>
+						</SignatureProperty>
+					</SignatureProperties>
+				</Object>
+			</Signature>
+		</NBan>
+		<CQT>
+			<Signature
+				xmlns="http://www.w3.org/2000/09/xmldsig#" Id="Tct-1a5d648b94834c9c8a0d34d8a37546fa">
+				<SignedInfo>
+					<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+					<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+					<Reference URI="#data123">
+						<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+						<DigestValue>gufRmUbTlisj/OUZPlC/i5zSNqM4M/EVISvWwEjjcnw=</DigestValue>
+					</Reference>
+					<Reference URI="#SigningTime-42c0099186634680923d5ea27333190c">
+						<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+						<DigestValue>zRCDsm5QhyOLufahFfpGdHXWRN/LZ50bEm306x37gHU=</DigestValue>
+					</Reference>
+					<Reference URI="#Id-d539541935c84b5e9bd001237a2c7de9">
+						<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+						<DigestValue>x20FBzCWb6Cq8J+s2NcMWxLdMopSJyMClk4PE/yjrBU=</DigestValue>
+					</Reference>
+				</SignedInfo>
+				<SignatureValue>n+0fFRlnrlmG0viGR783HIZcJwK84om0Hn3GyOeLeBDLgyxvmg2itKRQfKqo52lpwT49GT8qnbl76Kx+ikveK3R+heuFBXXcm0bA7/76e+FGX1RObOhfR5mUR1ee7szLiyAaWrwVgryR3EZwXCNjUI6TsMEJp7w++O+mjLEypWnsab/zbGnnRF0q8OjhmBt7KwC3qdIZvVHLH4GZ5INYSHklHByfLH2Ll5QsWPfVp5C9z5XUZfEvPElQ3oZcLPK8UegkKsk9rSePj0qbTIrXX4vB5HXm1xwaXR+VECrW4j99VUkb9EY3ylzvnOpnQuMi+DDKsk+J5XWA1oAZ1ySYtg==</SignatureValue>
+				<KeyInfo>
+					<X509Data>
+						<X509SubjectName>CN=TỔNG CỤC THUẾ,O=BỘ TÀI CHÍNH,L=Hà Nội,C=VN</X509SubjectName>
+						<X509Certificate>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</X509Certificate>
+					</X509Data>
+				</KeyInfo>
+				<Object Id="SigningTime-42c0099186634680923d5ea27333190c">
+					<SignatureProperties>
+						<SignatureProperty Target="signatureProperties">
+							<SigningTime>2022-09-20T23:52:17</SigningTime>
+						</SignatureProperty>
+					</SignatureProperties>
+				</Object>
+			</Signature>
+		</CQT>
+	</DSCKS>
+</HDon>
